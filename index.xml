@@ -2,30 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>Is-hg.github.io/</link>
+    <link>is-hg.github.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Nov 2019 10:52:51 +0800</lastBuildDate>
     
-	<atom:link href="Is-hg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="is-hg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>Is-hg.github.io/post/first/</link>
+      <link>is-hg.github.io/post/first/</link>
       <pubDate>Thu, 07 Nov 2019 10:52:51 +0800</pubDate>
       
-      <guid>Is-hg.github.io/post/first/</guid>
-      <description>###第一篇 Hello world</description>
+      <guid>is-hg.github.io/post/first/</guid>
+      <description>###第一篇 #####关于安装hugo和git配置
+实在是太坑了</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>Is-hg.github.io/about/</link>
+      <link>is-hg.github.io/about/</link>
       <pubDate>Thu, 07 Nov 2019 10:52:27 +0800</pubDate>
       
-      <guid>Is-hg.github.io/about/</guid>
+      <guid>is-hg.github.io/about/</guid>
       <description></description>
     </item>
     
